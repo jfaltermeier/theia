@@ -7,11 +7,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "coffee-java-extension": "1.0.1",
-    "coffe-editor-extension": "1.0.1",
-    "coffee-workflow-analyzer-editors": "1.0.1",
-    "coffee-workflow-analyzer": "1.0.1",
-    "coffee-server": "1.0.1"
+    "@emf.cloud/coffee-java-extension": "1.0.1",
+    "@emf.cloud/coffe-editor-extension": "1.0.1",
+    "@emf.cloud/coffee-workflow-analyzer-editors": "1.0.1",
+    "@emf.cloud/coffee-workflow-analyzer": "1.0.1",
+    "@emf.cloud/coffee-server": "1.0.1"
   },
   "resolutions": {
     "**/@theia/*": "0.7.1",
