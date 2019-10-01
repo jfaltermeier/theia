@@ -5,5 +5,12 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "coffee-java-extension": "1.0.1",
+    "coffee-editor-extension": "1.0.1",
+    "coffee-workflow-analyzer-editors": "1.0.1",
+    "coffee-workflow-analyzer": "1.0.1",
+    "coffee-server": "1.0.1"
   }
 }
