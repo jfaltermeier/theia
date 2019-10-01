@@ -5,5 +5,39 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@emf.cloud/coffee-java-extension": "1.0.1",
+    "@emf.cloud/coffe-editor-extension": "1.0.1",
+    "@emf.cloud/coffee-workflow-analyzer-editors": "1.0.1",
+    "@emf.cloud/coffee-workflow-analyzer": "1.0.1",
+    "@emf.cloud/coffee-server": "1.0.1"
+  },
+  "resolutions": {
+    "**/@theia/*": "0.7.1",
+    "**/@theia/editor": "0.7.1",
+    "**/@theia/filesystem": "0.7.1",
+    "**/@theia/languages": "0.7.1",
+    "**/@theia/monaco": "0.7.1",
+    "**/@theia/process": "0.7.1",
+    "**/@theia/application-manager": "0.7.1",
+    "**/@theia/application-package": "0.7.1",
+    "**/@theia/callhierarchy": "0.7.1",
+    "**/@theia/json": "0.7.1",
+    "**/@theia/markers": "0.7.1",
+    "**/@theia/navigator": "0.7.1",
+    "**/@theia/outline-view": "0.7.1",
+    "**/@theia/output": "0.7.1",
+    "**/@theia/userstorage": "0.7.1",
+    "**/@theia/variable-resolver": "0.7.1",
+    "**/@theia/workspace": "0.7.1",
+    "**/@theia/java": "0.7.1",
+    "**/@theia/java-debug": "0.7.1",
+    "**/@theia/terminal": "0.7.1",
+    "**/@theia/debug": "0.7.1",
+    "**/@theia/console": "0.7.1",
+    "**/@theia/preferences": "0.7.1",
+    "**/@theia/core": "0.7.1",
+    "**/sprotty": "0.7.0-next.cea0e2b"
   }
 }
